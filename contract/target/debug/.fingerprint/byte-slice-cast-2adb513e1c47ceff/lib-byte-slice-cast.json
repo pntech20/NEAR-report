@@ -1,0 +1,1 @@
+{"rustc":5055087155190864114,"features":"[\"std\"]","target":8099756555744063610,"profile":8344124108420085910,"path":13002435927384683554,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/byte-slice-cast-2adb513e1c47ceff/dep-lib-byte-slice-cast"}}],"rustflags":["-C","link-args=-s"],"metadata":4028636240650239297,"config":2202906307356721367,"compile_kind":0}
